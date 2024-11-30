@@ -1,0 +1,10 @@
+[package]
+name = "progpow_verifier"
+version = "0.1.0"
+edition = "2021"
+authors = ["Qian Zhang"]
+description = "A Rust implementation of ProgPoW for Ethereum mining verification, based on go-ethereum."
+license = "MIT"
+readme = "README.md"
+[dependencies]
+byteorder = "1.5.0"
