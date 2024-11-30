@@ -6,5 +6,6 @@ authors = ["Qian Zhang"]
 description = "A Rust implementation of ProgPoW for Ethereum mining verification, based on go-ethereum."
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/HappyFox001/progpow_rust"
 [dependencies]
 byteorder = "1.5.0"
